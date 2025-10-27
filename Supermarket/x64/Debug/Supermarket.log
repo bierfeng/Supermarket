@@ -1,0 +1,8 @@
+﻿  GoodsManagement.c
+D:\My_File\Project\C_Project\Supermarket_v0.1\Supermarket\GoodsManagement.c(11,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\My_File\Project\C_Project\Supermarket_v0.1\Supermarket\GoodsManagement.c(22,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\My_File\Project\C_Project\Supermarket_v0.1\Supermarket\GoodsManagement.c(31,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\My_File\Project\C_Project\Supermarket_v0.1\Supermarket\GoodsManagement.c(59,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\My_File\Project\C_Project\Supermarket_v0.1\Supermarket\GoodsManagement.c(73,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\My_File\Project\C_Project\Supermarket_v0.1\Supermarket\GoodsManagement.c(93,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Supermarket.vcxproj -> D:\My_File\Project\C_Project\Supermarket_v0.1\x64\Debug\Supermarket.exe
